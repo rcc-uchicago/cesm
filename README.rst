@@ -10,9 +10,9 @@ The CESM Quickstart Guide is available at:
 
 http://escomp.github.io/cesm
 
-This repository provides tools for managing the external components that
-make up a CESM tag - alpha, beta and release. CESM tag creation should
-be coordinated through CSEG at NCAR.
+This repository provides tools for managing the external components
+that make up a CESM tag - alpha, beta and release. CESM tag creation
+should be coordinated through CSEG at NCAR.
 
 .. sectnum::
 
@@ -32,7 +32,8 @@ Installing, building and running CESM requires:
 
 * subversion client (we have tested with versions 1.6.11 and newer)
 
-* python2 version 2.7 or newer (cime supports python3, but some CESM components are not python3-compliant)
+* python2 version 2.7 or newer (cime supports python3, but some CESM
+  components are not python3-compliant)
 
 * perl version 5
 
